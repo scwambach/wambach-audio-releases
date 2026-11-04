@@ -18,6 +18,6 @@ Installers for Wambach Audio plugins.
 | VocalDoubler | [VocalDoubler-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/wamvox-doubler-latest/VocalDoubler-mac.pkg) | [VocalDoubler-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/wamvox-doubler-latest/VocalDoubler-win.exe) |
 | WambOxford Dynamic EQ | [WambOxfordDynamicEQ-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/wamboxford-dynamic-eq-latest/WambOxfordDynamicEQ-mac.pkg) | [WambOxfordDynamicEQ-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/wamboxford-dynamic-eq-latest/WambOxfordDynamicEQ-win.exe) |
 
-Chugs Virtual Drummer's installers include its drum sample library (about 200 MB).
+Chugs Virtual Drummer's installers also install its drum sample library (about 200 MB once installed).
 
 Older versions are listed on the [Releases](https://github.com/scwambach/wambach-audio-releases/releases) page.
