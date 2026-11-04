@@ -6,17 +6,6 @@ Installers for Wambach Audio plugins.
   Silicon and Intel Macs, macOS 11 or later.
 - **Windows** (`.exe`): VST3 and standalone app. 64-bit Windows.
 
-## Chugs Virtual Drummer
-
-A multi-mic, round-robin drum sampler. Ten pads with their own close and
-overhead mic mixes, played as one stereo kit or split out to separate
-channels. The installer also installs the drum sample library (about 200 MB
-once installed).
-
-<img src="images/chugs-virtual-drummer.jpg" alt="Chugs Virtual Drummer" width="600">
-
-[ChugsVirtualDrummer-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/chugs-virtual-drummer-latest/ChugsVirtualDrummer-mac.pkg) | [ChugsVirtualDrummer-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/chugs-virtual-drummer-latest/ChugsVirtualDrummer-win.exe)
-
 ## FirePressor
 
 A channel strip with a tube preamp and a limiter: input trim, drive,
@@ -101,3 +90,14 @@ crosses its threshold, with an optional external sidechain.
 [WambOxfordDynamicEQ-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/wamboxford-dynamic-eq-latest/WambOxfordDynamicEQ-mac.pkg) | [WambOxfordDynamicEQ-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/wamboxford-dynamic-eq-latest/WambOxfordDynamicEQ-win.exe)
 
 Older versions are listed on the [Releases](https://github.com/scwambach/wambach-audio-releases/releases) page.
+
+## Chugs Virtual Drummer
+
+A multi-mic, round-robin drum sampler. Ten pads with their own close and
+overhead mic mixes, played as one stereo kit or split out to separate
+channels. The installer also installs the drum sample library (about 200 MB
+once installed).
+
+<img src="images/chugs-virtual-drummer.jpg" alt="Chugs Virtual Drummer" width="600">
+
+[ChugsVirtualDrummer-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/chugs-virtual-drummer-latest/ChugsVirtualDrummer-mac.pkg) | [ChugsVirtualDrummer-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/chugs-virtual-drummer-latest/ChugsVirtualDrummer-win.exe)
