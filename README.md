@@ -43,6 +43,16 @@ meters side by side.
 
 [Referencer-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/referencer-latest/Referencer-mac.pkg) | [Referencer-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/referencer-latest/Referencer-win.exe)
 
+## Stop Crowdin' Me
+
+Makes room for a vocal in a busy mix. Put it on the guitars or music bus and
+feed it the vocal: it dips the music only in the frequencies the vocal is
+using, only while the vocal is there. Plugin only, no standalone app.
+
+<img src="images/stop-crowdin-me.png" alt="Stop Crowdin' Me" width="600">
+
+[StopCrowdinMe-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/stop-crowdin-me-latest/StopCrowdinMe-mac.pkg) | [StopCrowdinMe-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/stop-crowdin-me-latest/StopCrowdinMe-win.exe)
+
 ## StressedOut
 
 A character compressor with eight curves, from a gentle 1:1 up to an all-out
