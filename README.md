@@ -55,7 +55,9 @@ A character compressor with eight curves, from a gentle 1:1 up to an all-out
 ## Verbox SCW85
 
 A digital reverb and effects processor based on a classic rack unit, with
-several algorithms and detailed control over decay, diffusion and tone.
+several algorithms. A Simple view keeps it to decay, size, pre-delay, tone
+and mix; the Advanced view gives detailed control over decay, diffusion and
+tone.
 
 <img src="images/verbox-scw85.png" alt="Verbox SCW85" width="600">
 
