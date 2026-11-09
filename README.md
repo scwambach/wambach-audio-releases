@@ -114,6 +114,17 @@ standalone app.
 
 [VocalDoubler-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/wamvox-doubler-latest/VocalDoubler-mac.pkg) | [VocalDoubler-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/wamvox-doubler-latest/VocalDoubler-win.exe)
 
+## WambEcho
+
+A vintage tape echo with four switchable tape heads, wow and flutter,
+saturation, a de-esser, diffusion reverb and true ping pong. A waveform
+visualiser shows where every repeat lands, and delay times snap to note
+values. macOS only for now; the Windows installer will follow.
+
+<img src="images/wamb-echo.png" alt="WambEcho" width="600">
+
+[WambEcho-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/wamb-echo-latest/WambEcho-mac.pkg)
+
 ## WambOxford Dynamic EQ
 
 A five-band dynamic EQ: each band can boost or cut only when the signal
