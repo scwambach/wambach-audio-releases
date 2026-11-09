@@ -119,11 +119,11 @@ standalone app.
 A vintage tape echo with four switchable tape heads, wow and flutter,
 saturation, a de-esser, diffusion reverb and true ping pong. A waveform
 visualiser shows where every repeat lands, and delay times snap to note
-values. macOS only for now; the Windows installer will follow.
+values.
 
 <img src="images/wamb-echo.png" alt="WambEcho" width="600">
 
-[WambEcho-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/wamb-echo-latest/WambEcho-mac.pkg)
+[WambEcho-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/wamb-echo-latest/WambEcho-mac.pkg) | [WambEcho-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/wamb-echo-latest/WambEcho-win.exe)
 
 ## WambOxford Dynamic EQ
 
