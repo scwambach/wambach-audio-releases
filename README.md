@@ -8,7 +8,7 @@ Installers for Wambach Audio plugins.
 
 ## Chugs Virtual Drummer
 
-A multi-mic, round-robin drum sampler. Ten pads with their own close and
+A multi-mic, round-robin drum sampler. Thirteen pads with their own close and
 overhead mic mixes, played as one stereo kit or split out to separate
 channels. The installer also installs the drum sample library (about 200 MB
 once installed).
