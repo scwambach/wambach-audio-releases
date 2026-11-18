@@ -46,6 +46,16 @@ reduced. Mono or stereo.
 
 [GetTheEssOuttaHere-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/get-the-ess-outta-here-latest/GetTheEssOuttaHere-mac.pkg) | [GetTheEssOuttaHere-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/get-the-ess-outta-here-latest/GetTheEssOuttaHere-win.exe)
 
+## lil-freq
+
+A dynamic EQ you draw right on a live spectrum. Place up to 24 bands by
+hand, make any of them dynamic, and see where two tracks are fighting over
+the same frequencies.
+
+<img src="images/lil-freq.jpg" alt="lil-freq" width="600">
+
+[lil-freq-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/lil-freq-latest/lil-freq-mac.pkg) | [lil-freq-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/lil-freq-latest/lil-freq-win.exe)
+
 ## Make Big
 
 A one-window mastering processor: tone, dynamics, saturation, width and
@@ -64,6 +74,16 @@ meters side by side.
 <img src="images/referencer.png" alt="Referencer" width="600">
 
 [Referencer-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/referencer-latest/Referencer-mac.pkg) | [Referencer-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/referencer-latest/Referencer-win.exe)
+
+## Spread 'Em
+
+A stereo widener for sources that are already panned, like a guitar bus
+panned hard left and right. Pushes the sides further apart, clears room in
+the middle and keeps the bass in mono.
+
+<img src="images/spread-em.png" alt="Spread 'Em" width="600">
+
+[SpreadEm-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/spread-em-latest/SpreadEm-mac.pkg) | [SpreadEm-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/spread-em-latest/SpreadEm-win.exe)
 
 ## Stop Crowdin' Me
 
