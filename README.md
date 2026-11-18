@@ -6,17 +6,6 @@ Installers for Wambach Audio plugins.
   Silicon and Intel Macs, macOS 11 or later.
 - **Windows** (`.exe`): VST3 and standalone app. 64-bit Windows.
 
-## Chugs Virtual Drummer
-
-A multi-mic, round-robin drum sampler. Thirteen pads with their own close and
-overhead mic mixes, played as one stereo kit or split out to separate
-channels. The installer also installs the drum sample library (about 200 MB
-once installed).
-
-<img src="images/chugs-virtual-drummer.jpg" alt="Chugs Virtual Drummer" width="600">
-
-[ChugsVirtualDrummer-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/chugs-virtual-drummer-latest/ChugsVirtualDrummer-mac.pkg) | [ChugsVirtualDrummer-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/chugs-virtual-drummer-latest/ChugsVirtualDrummer-win.exe)
-
 ## Cut It
 
 A noise reducer for steady background noise such as tape hiss, air
@@ -133,6 +122,20 @@ standalone app.
 <img src="images/wamvox-doubler.png" alt="VocalDoubler" width="600">
 
 [VocalDoubler-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/wamvox-doubler-latest/VocalDoubler-mac.pkg) | [VocalDoubler-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/wamvox-doubler-latest/VocalDoubler-win.exe)
+
+## WA Drummer
+
+A drum sampler with five drummers' kits in one instrument (Punk, Indie,
+Alternative, Hardcore and Pop), plus a Builder mode that mixes and matches
+their kicks, snares and toms. Every one of the thirteen pads has its own
+tune, pan, 12-band channel EQ, compressor, distortion, bit crusher and
+stereo/mono switch, and can go out on its own channel for multitrack
+recording. The installer also installs the drum sample library (about
+650 MB once installed).
+
+<img src="images/wa-drummer.png" alt="WA Drummer" width="600">
+
+[WADrummer-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/wa-drummer-latest/WADrummer-mac.pkg) | [WADrummer-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/wa-drummer-latest/WADrummer-win.exe)
 
 ## WambEcho
 
