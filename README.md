@@ -87,8 +87,9 @@ using, only while the vocal is there. Plugin only, no standalone app.
 
 ## StressedOut
 
-A character compressor with eight curves, from a gentle 1:1 up to an all-out
-"Nuke", plus a before/after display of what it's doing.
+A character compressor with eight named curves, from Color (1:1) up to an
+all-out Nuke. Pick a curve by its shape, watch the signal ride it on a live
+curve graph, and add Warm or Grit harmonics. Includes a before/after display.
 
 <img src="images/stressed-out.png" alt="StressedOut" width="600">
 
