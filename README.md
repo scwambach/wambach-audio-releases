@@ -47,8 +47,9 @@ the same frequencies.
 
 ## Make Big
 
-A one-window mastering processor: tone, dynamics, saturation, width and
-loudness, with full metering.
+An all-in-one mastering processor. Seven modules in signal order (Input,
+EQ, Dynamics, Glue, Width, Color and Loud) with full metering, plus a live
+view of the reactive EQ on the EQ page.
 
 <img src="images/make-big.png" alt="Make Big" width="600">
 
