@@ -45,6 +45,18 @@ the same frequencies.
 
 [lil-freq-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/lil-freq-latest/lil-freq-mac.pkg) | [lil-freq-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/lil-freq-latest/lil-freq-win.exe)
 
+## Line 'Em Up
+
+Lines up a double or harmony vocal with the lead. Put it on the double, send
+the lead to its sidechain, capture the section and press Align: the double's
+timing follows the lead syllable by syllable, without changing its pitch.
+Compare before and after, then export it or drag it back into your session.
+Plugin only, no standalone app.
+
+<img src="images/line-em-up.png" alt="Line 'Em Up" width="600">
+
+[LineEmUp-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/line-em-up-latest/LineEmUp-mac.pkg) | [LineEmUp-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/line-em-up-latest/LineEmUp-win.exe)
+
 ## Make Big
 
 An all-in-one mastering processor. Seven modules in signal order (Input,
