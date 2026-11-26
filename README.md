@@ -65,6 +65,18 @@ meters side by side.
 
 [Referencer-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/referencer-latest/Referencer-mac.pkg) | [Referencer-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/referencer-latest/Referencer-win.exe)
 
+## Room Mics
+
+Room microphones for close-miked drums, guitar and vocals. Each drum gets its
+own instance and a place in a real-sized room. Two mic pairs (spaced, XY,
+ORTF or mid-side) hear the room's reflections and tail. Drag the source, mics
+and walls in the room view, link a whole kit with room groups, and crush the
+room with the bus compressor and a gate that blooms on slow hits.
+
+<img src="images/room-mics.png" alt="Room Mics" width="600">
+
+[RoomMics-mac.pkg](https://github.com/scwambach/wambach-audio-releases/releases/download/room-mics-latest/RoomMics-mac.pkg) | [RoomMics-win.exe](https://github.com/scwambach/wambach-audio-releases/releases/download/room-mics-latest/RoomMics-win.exe)
+
 ## Spread 'Em
 
 A stereo widener for sources that are already panned, like a guitar bus
