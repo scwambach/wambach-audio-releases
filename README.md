@@ -47,11 +47,12 @@ the same frequencies.
 
 ## Line 'Em Up
 
-Lines up a double or harmony vocal with the lead. Put it on the double, send
-the lead to its sidechain, capture the section and press Align: the double's
-timing follows the lead syllable by syllable, without changing its pitch.
-Compare before and after, then export it or drag it back into your session.
-Plugin only, no standalone app.
+Lines up a double or harmony vocal with the lead: the double's timing
+follows the lead syllable by syllable, without changing its pitch. In ARA
+hosts (Studio One, Cubase, Logic Pro, Reaper) put it on both tracks, pick
+the lead as the guide and press Align. In any other DAW, send the lead to
+its sidechain and capture the section first. Compare before and after, then
+export it or drag it back into your session. Plugin only, no standalone app.
 
 <img src="images/line-em-up.png" alt="Line 'Em Up" width="600">
 
